@@ -13,7 +13,7 @@ The defaults assume [bosh-lite](https://github.com/cloudfoundry/bosh-lite) and t
 
 ### Deploy app
 
-You may either run this script:
+Run this script:
 ```sh
 ./scripts/deploy.sh
 ```
