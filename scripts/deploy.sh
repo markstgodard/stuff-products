@@ -11,3 +11,5 @@ cf set-env ${APP_NAME} A8_REGISTRY_URL "http://${REGISTRY_NAME}.${ROUTES_DOMAIN}
 cf set-env ${APP_NAME} A8_CONTROLLER_URL "http://${CONTROLLER_NAME}.${ROUTES_DOMAIN}"
 
 cf start ${APP_NAME}
+
+cf access-allow ${STORE_NAME} ${APP_NAME} --port 8080 --protocol tcp
