@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Breaking Bad S2",
+    "price": 19.99,
+    "category": "DVD",
+    "thumbnail_url": "https://fanart.tv/fanart/tv/81189/tvthumb/B_81189%20(6).jpg",
+    "description": "Walter White, a struggling high school chemistry teacher, is diagnosed with advanced lung cancer. ",
+    "stars": 4,
+    "reviews": 10
+  },
+  {
+    "id": 2,
+    "name": "Mr. Robot S1",
+    "price": 21.99,
+    "category": "DVD",
+    "thumbnail_url": "https://fanart.tv/fanart/tv/289590/tvthumb/mr-robot-556beff62203d.jpg",
+    "description": "The show follows Elliot, who is a cyber-security tech by day and vigilante hacker by night.",
+    "stars": 4,
+    "reviews": 5
+  },
+  {
+    "id": 3,
+    "name": "Fight Club",
+    "price": 16.99,
+    "category": "DVD",
+    "thumbnail_url": "https://fanart.tv/detailpreview/fanart/movies/550/moviethumb/fight-club-51b0f879f12e2.jpg",
+    "description": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy.",
+    "stars": 5,
+    "reviews": 2
+  },
+  {
+    "id": 4,
+    "name": "Dexter S4",
+    "price": 15.99,
+    "category": "DVD",
+    "thumbnail_url": "https://fanart.tv/fanart/tv/79349/tvthumb/D_79349%20(10).jpg",
+    "description": "He's Dexter Morgan, everyone's favorite serial killer. As a Miami forensics expert, he spends his days solving crimes, and nights committing them.",
+    "stars": 3,
+    "reviews": 0
+  },
+  {
+    "id": 5,
+    "name": "True Detective S1",
+    "price": 16.99,
+    "category": "DVD",
+    "thumbnail_url": "https://fanart.tv/fanart/tv/270633/tvthumb/true-detective-52d09d848dbe5.jpg",
+    "description": "An anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+    "stars": 5,
+    "reviews": 18
+  }
+]
