@@ -5,9 +5,7 @@
     "price": 19.99,
     "category": "DVD",
     "thumbnail_url": "https://fanart.tv/fanart/tv/81189/tvthumb/B_81189%20(6).jpg",
-    "description": "Walter White, a struggling high school chemistry teacher, is diagnosed with advanced lung cancer. ",
-    "stars": 4,
-    "reviews": 10
+    "description": "Walter White, a struggling high school chemistry teacher, is diagnosed with advanced lung cancer. "
   },
   {
     "id": 2,
@@ -15,9 +13,7 @@
     "price": 21.99,
     "category": "DVD",
     "thumbnail_url": "https://fanart.tv/fanart/tv/289590/tvthumb/mr-robot-556beff62203d.jpg",
-    "description": "The show follows Elliot, who is a cyber-security tech by day and vigilante hacker by night.",
-    "stars": 4,
-    "reviews": 5
+    "description": "The show follows Elliot, who is a cyber-security tech by day and vigilante hacker by night."
   },
   {
     "id": 3,
@@ -25,8 +21,6 @@
     "price": 16.99,
     "category": "DVD",
     "thumbnail_url": "https://fanart.tv/detailpreview/fanart/movies/550/moviethumb/fight-club-51b0f879f12e2.jpg",
-    "description": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy.",
-    "stars": 5,
-    "reviews": 2
+    "description": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy."
   }
 ]
